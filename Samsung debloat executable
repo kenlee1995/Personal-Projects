@@ -1,0 +1,8 @@
+adb shell pm uninstall -k --user 0 com.samsung.android.bixby.es.globalaction 
+adb shell pm uninstall -k --user 0 com.samsung.android.bixby.wakeup 
+adb shell pm uninstall -k --user 0 com.samsung.android.bixby.plmsync 
+adb shell pm uninstall -k --user 0 com.samsung.android.bixby.voiceinput 
+adb shell pm uninstall -k --user 0 com.samsung.systemui.bixby 
+adb shell pm uninstall -k --user 0 com.samsung.android.bixby.agent.dummy
+
+
